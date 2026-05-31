@@ -6,4 +6,4 @@ En entornos reales, la mayoría de los servidores y contenedores no
 poseen interfaz visual, por lo que navegar mediante comandos es la
 única forma de operarlos. Esta habilidad también facilita una integración
 fluida con herramientas esenciales de control de versiones como Git y GitHub,
-siendo un requisito indispensable para administrar software profesionalmente.
+siendo un requisito indispensable para administrar software profesionalmente. 
