@@ -2,4 +2,4 @@ Repositorio: Es el espacio virtual o directorio donde se almacena todo el histor
 
 Commit: Es una instantánea o registro de los cambios realizados en los archivos del proyecto en un momento específico. Cada commit actúa como un punto de guardado en el historial, el cual va acompañado de un mensaje descriptivo y un identificador único que permite volver a ese estado si es necesario.
 
-Push: Es la operación que se utiliza para enviar y cargar los commits locales desde tu computadora hacia un repositorio remoto, como GitHub. Permite actualizar el código en el servidor central para que otros miembros del equipo puedan ver, compartir y colaborar en las últimas modificaciones del proyecto.
+Push: Es la operación que se utiliza para enviar y cargar los commits locales desde tu computadora hacia un repositorio remoto, como GitHub. Permite actualizar el código en el servidor central para que otros miembros del equipo puedan ver, compartir y colaborar en las últimas modificaciones del proyecto. 
