@@ -10,4 +10,4 @@ Enviar reportes ciudadanos: Permitir que los vecinos denuncien problemas comunit
 
 Buzón de sugerencias o reclamos: Crear un formulario donde la comunidad envíe comentarios, ideas de mejora o alertas directamente a los administradores del sistema.
 
-Alertas de emergencia local: Diseñar un botón de pánico o aviso rápido para reportar incidentes en tiempo real dentro del barrio.
+Alertas de emergencia local: Diseñar un botón de pánico o aviso rápido para reportar incidentes en tiempo real dentro del barrio. 
