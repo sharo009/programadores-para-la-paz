@@ -1,0 +1,9 @@
+Las APIs son herramientas clave para que las comunidades compartan información,
+ya que actúan como puentes estandarizados que conectan diferentes aplicaciones.
+Al usarlas, un reporte de baches, una alerta ambiental o un aviso de seguridad
+puede enviarse automáticamente desde el celular de un ciudadano hacia una base
+de datos central y, al mismo tiempo, replicarse en redes sociales o mapas públicos.
+Esto elimina el desorden de los mensajes dispersos y unifica los datos en un solo
+formato estructurado, facilitando que las juntas vecinales u organizaciones locales
+analicen las emergencias en tiempo real. En conclusión, las APIs permiten coordinar
+la participación ciudadana, transformando reportes individuales en acción comunitaria.

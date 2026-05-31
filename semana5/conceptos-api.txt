@@ -1,0 +1,13 @@
+1. ¿Qué hace esta ruta?
+Recibe datos en el cuerpo de la petición (Body): A diferencia de las rutas anteriores que usaban la URL para enviar datos, esta ruta utiliza el método POST y extrae la información de manera segura desde req.body.mensaje.
+
+Procesa y responde en formato JSON: El servidor toma ese mensaje que le enviamos y devuelve una respuesta estructurada en formato JSON (res.json(...)) con un estado de confirmación ("Reporte recibido") junto con el mismo texto que se le envió.
+
+2. ¿Para qué podría servir en una aplicación comunitaria?
+En el contexto de una aplicación para la comunidad (como el proyecto "Programadores para la paz"), esta ruta es ideal para interactuar activamente con los usuarios. Podría servir para:
+
+Enviar reportes ciudadanos: Permitir que los vecinos denuncien problemas comunitarios (por ejemplo: "Falta de iluminación en la calle principal" o "Bache peligroso").
+
+Buzón de sugerencias o reclamos: Crear un formulario donde la comunidad envíe comentarios, ideas de mejora o alertas directamente a los administradores del sistema.
+
+Alertas de emergencia local: Diseñar un botón de pánico o aviso rápido para reportar incidentes en tiempo real dentro del barrio.
