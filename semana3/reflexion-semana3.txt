@@ -1,0 +1,9 @@
+El uso de herramientas como Git para mantener un registro de cambios es
+crucial porque proporciona un historial completo y transparente de la evolución
+del software. Esto permite a los desarrolladores identificar con precisión qué
+modificaciones se hicieron, cuándo y por qué autor, facilitando la detección y
+corrección de errores mediante la reversión a estados estables anteriores. Además,
+este registro optimiza el trabajo en equipo, ya que evita que los cambios de un
+programador sobrescriban los de otro, permitiendo la colaboración simultánea. En
+última instancia, actúa como una red de seguridad indispensable que asegura la
+integridad, la organización y la continuidad a largo plazo de cualquier proyecto.

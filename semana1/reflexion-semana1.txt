@@ -1,0 +1,5 @@
+¿Qué relación encuentras entre el uso responsable de la información en internet, la participación ciudadana y la organización del trabajo técnico con herramientas como Git?
+
+Es tener en cuenta la trazabilidad y manejo de la información donde nos permite evolucionar y tener una transparencia el cual permite garantizar la integridad de los datos donde son auditados por la ciudadanía y así se da uso público.
+Las herramientas Git es quien genera una infraestructura que permite hacer un trabajo más colaborativo y verificable.
+esto permite que el responsable de la información garantice la  seguridad, integridad, veracidad y sobre todo la protección  de los datos siendo una información sea confiable cumpliendo con el marco ético y legal.

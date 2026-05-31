@@ -1,0 +1,9 @@
+El dominio de la terminal es fundamental para un desarrollador porque
+optimiza drásticamente el flujo de trabajo y la gestión de proyectos.
+A diferencia de las interfaces gráficas, la línea de comandos permite
+automatizar tareas, ejecutar scripts y organizar archivos con rapidez.
+En entornos reales, la mayoría de los servidores y contenedores no
+poseen interfaz visual, por lo que navegar mediante comandos es la
+única forma de operarlos. Esta habilidad también facilita una integración
+fluida con herramientas esenciales de control de versiones como Git y GitHub,
+siendo un requisito indispensable para administrar software profesionalmente.
